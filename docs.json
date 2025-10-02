@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#F16726",
     "light": "#07C983",
     "dark": "#15803D"
   },
@@ -72,12 +72,12 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "href": "https://docs.rent3.com",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Main Website",
+          "href": "https://www.rent3.com",
           "icon": "newspaper"
         }
       ]
@@ -91,13 +91,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@rent3.com"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://www.rent3.com/dashboard"
     }
   },
   "contextual": {
@@ -113,10 +113,6 @@
    ]
   },
   "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
+    "socials": {}
   }
 }
