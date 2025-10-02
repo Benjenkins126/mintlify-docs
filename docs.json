@@ -24,7 +24,6 @@
           {
             "group": "Configuration",
             "icon": "gears",
-            "tag": "SOON",
             "pages": [
               "short-to-medium/configuration/booking-stages"
             ]
@@ -32,7 +31,6 @@
           {
             "group": "Properties",
             "icon": "house",
-            "tag": "SOON",
             "pages": [
               "short-to-medium/properties/overview",
               "short-to-medium/properties/create",
@@ -43,7 +41,6 @@
           {
             "group": "Bookings",
             "icon": "bookmark",
-            "tag": "SOON",
             "pages": [
               "short-to-medium/bookings/overview",
               "short-to-medium/bookings/create",
@@ -53,7 +50,6 @@
           },
           {
             "group": "Availability",
-            "tag": "SOON",
             "icon": "calendar",
             "pages": [
               "short-to-medium/availability/calendar",
@@ -62,7 +58,6 @@
           },
           {
             "group": "Guests",
-            "tag": "SOON",
             "icon": "user",
             "pages": [
               "short-to-medium/guests/overview",
@@ -71,7 +66,6 @@
           },
           {
             "group": "Tenant Portal",
-            "tag": "SOON",
             "icon": "browser",
             "pages": [
               "short-to-medium/tenant-portal/overview",
@@ -82,7 +76,6 @@
           },
           {
             "group": "Team",
-            "tag": "SOON",
             "icon": "users",
             "pages": [
               "short-to-medium/team/roles-and-permissions",
@@ -92,7 +85,6 @@
           },
           {
             "group": "Profile",
-            "tag": "SOON",
             "icon": "user",
             "pages": [
               "short-to-medium/profile/settings",
