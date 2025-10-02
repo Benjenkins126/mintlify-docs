@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Rent3 Documentation",
   "colors": {
     "primary": "#F16726",
     "light": "#F16726",
@@ -17,52 +17,69 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "quickstart"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Configuration",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "short-to-medium/configuration/booking-stages"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Properties",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "short-to-medium/properties/overview",
+              "short-to-medium/properties/create",
+              "short-to-medium/properties/edit",
+              "short-to-medium/properties/delete"
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Bookings",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
+              "short-to-medium/bookings/overview",
+              "short-to-medium/bookings/create",
+              "short-to-medium/bookings/edit",
+              "short-to-medium/bookings/delete"
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "Availability",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "short-to-medium/availability/calendar",
+              "short-to-medium/availability/check"
+            ]
+          },
+          {
+            "group": "Guests",
+            "pages": [
+              "short-to-medium/guests/overview",
+              "short-to-medium/guests/create"
+            ]
+          },
+          {
+            "group": "Tenant Portal",
+            "pages": [
+              "short-to-medium/tenant-portal/overview",
+              "short-to-medium/tenant-portal/setup",
+              "short-to-medium/tenant-portal/dashboard",
+              "short-to-medium/tenant-portal/maintenance-requests"
+            ]
+          },
+          {
+            "group": "Team",
+            "pages": [
+              "short-to-medium/team/roles-and-permissions",
+              "short-to-medium/team/sub-users",
+              "short-to-medium/team/audit-logs"
+            ]
+          },
+          {
+            "group": "Profile",
+            "pages": [
+              "short-to-medium/profile/settings",
+              "short-to-medium/profile/two-factor-authentication"
             ]
           }
         ]
