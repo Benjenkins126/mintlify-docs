@@ -23,12 +23,16 @@
           },
           {
             "group": "Configuration",
+            "icon": "settings",
+            "tag": "SOON",
             "pages": [
               "short-to-medium/configuration/booking-stages"
             ]
           },
           {
             "group": "Properties",
+            "icon": "house",
+            "tag": "SOON",
             "pages": [
               "short-to-medium/properties/overview",
               "short-to-medium/properties/create",
