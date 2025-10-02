@@ -23,7 +23,7 @@
           },
           {
             "group": "Configuration",
-            "icon": "settings",
+            "icon": "cog",
             "tag": "SOON",
             "pages": [
               "short-to-medium/configuration/booking-stages"
