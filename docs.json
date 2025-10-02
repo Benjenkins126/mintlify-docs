@@ -54,6 +54,7 @@
           {
             "group": "Availability",
             "tag": "SOON",
+            "icon": "calendar",
             "pages": [
               "short-to-medium/availability/calendar",
               "short-to-medium/availability/check"
@@ -62,6 +63,7 @@
           {
             "group": "Guests",
             "tag": "SOON",
+            "icon": "user",
             "pages": [
               "short-to-medium/guests/overview",
               "short-to-medium/guests/create"
@@ -70,6 +72,7 @@
           {
             "group": "Tenant Portal",
             "tag": "SOON",
+            "icon": "browser",
             "pages": [
               "short-to-medium/tenant-portal/overview",
               "short-to-medium/tenant-portal/setup",
@@ -80,6 +83,7 @@
           {
             "group": "Team",
             "tag": "SOON",
+            "icon": "users",
             "pages": [
               "short-to-medium/team/roles-and-permissions",
               "short-to-medium/team/sub-users",
@@ -89,6 +93,7 @@
           {
             "group": "Profile",
             "tag": "SOON",
+            "icon": "user",
             "pages": [
               "short-to-medium/profile/settings",
               "short-to-medium/profile/two-factor-authentication"
