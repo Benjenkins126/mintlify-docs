@@ -42,6 +42,8 @@
           },
           {
             "group": "Bookings",
+            "icon": "bookmark",
+            "tag": "SOON",
             "pages": [
               "short-to-medium/bookings/overview",
               "short-to-medium/bookings/create",
@@ -51,6 +53,7 @@
           },
           {
             "group": "Availability",
+            "tag": "SOON",
             "pages": [
               "short-to-medium/availability/calendar",
               "short-to-medium/availability/check"
@@ -58,6 +61,7 @@
           },
           {
             "group": "Guests",
+            "tag": "SOON",
             "pages": [
               "short-to-medium/guests/overview",
               "short-to-medium/guests/create"
@@ -65,6 +69,7 @@
           },
           {
             "group": "Tenant Portal",
+            "tag": "SOON",
             "pages": [
               "short-to-medium/tenant-portal/overview",
               "short-to-medium/tenant-portal/setup",
@@ -74,6 +79,7 @@
           },
           {
             "group": "Team",
+            "tag": "SOON",
             "pages": [
               "short-to-medium/team/roles-and-permissions",
               "short-to-medium/team/sub-users",
@@ -82,6 +88,7 @@
           },
           {
             "group": "Profile",
+            "tag": "SOON",
             "pages": [
               "short-to-medium/profile/settings",
               "short-to-medium/profile/two-factor-authentication"
